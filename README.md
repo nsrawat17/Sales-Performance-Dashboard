@@ -19,6 +19,15 @@ The goal of this dashboard is to:
 - Custom Visuals & KPI Cards
 - Filters, Slicers, and Drilldowns
 
+
+🔗 SQL Integration
+-- This project involved extensive use of SQL for:
+-- Extracting sales, profit, and product data from a connected relational database
+-- Writing complex JOINs, GROUP BY, and window functions for aggregation and filtering
+-- Creating views to streamline reporting in Power BI
+-- Performing data transformation (e.g., handling missing values, category mapping) before importing into Power BI
+
+
 ---
 
 ## 📈 Key Features
