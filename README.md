@@ -15,19 +15,20 @@ The goal of this dashboard is to:
 
 - **Power BI Desktop**
 - DAX (Data Analysis Expressions)
+- SQL(MySQL Workbench / SQL Server)
 - Data Cleaning & Transformation (Power Query Editor)
 - Custom Visuals & KPI Cards
 - Filters, Slicers, and Drilldowns
 
 
 ## 🔗 SQL Integration
--- This project involved extensive use of SQL for:
--- Extracting sales, profit, and product data from a connected relational database
--- Writing complex JOINs, GROUP BY, and window functions for aggregation and filtering
--- Creating views to streamline reporting in Power BI
--- Performing data transformation (e.g., handling missing values, category mapping) before importing into Power BI
 
+This project involved extensive use of **SQL** for:
 
+- Extracting sales, profit, and product data from a connected **relational database**
+- Writing complex **JOINs**, **GROUP BY**, and **window functions** for aggregation and filtering
+- Creating **views and subqueries** to simplify Power BI data models
+- Performing **data transformation and filtering** before reporting
 ---
 
 ## 📈 Key Features
