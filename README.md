@@ -33,6 +33,9 @@ The goal of this dashboard is to:
 - Interactive slicers for **State**, **Region**, and **Category**
 
 ---
+##  Dashboard Preview
+![Screenshot 2025-04-14 170124](https://github.com/user-attachments/assets/cfecd1c4-51f1-456a-863b-c42878f2d9b8)
+
 
 🔍 Insights Gained
 California leads with the highest profit ($76K+)
