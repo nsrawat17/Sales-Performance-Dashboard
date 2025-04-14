@@ -20,7 +20,7 @@ The goal of this dashboard is to:
 - Filters, Slicers, and Drilldowns
 
 
-🔗 SQL Integration
+## 🔗 SQL Integration
 -- This project involved extensive use of SQL for:
 -- Extracting sales, profit, and product data from a connected relational database
 -- Writing complex JOINs, GROUP BY, and window functions for aggregation and filtering
