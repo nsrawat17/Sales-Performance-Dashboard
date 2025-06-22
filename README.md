@@ -50,7 +50,7 @@ This project involved extensive use of **SQL** for:
 🔍 Insights Gained
 California leads with the highest profit ($76K+)
 
-Technology category receives the highest average discount (~17.39%)
+Furniture category receives the highest average discount (~17.39%)
 
 Sales and profit peaked during April and December
 
